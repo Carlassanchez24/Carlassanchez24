@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻Soy una apasionada de la tecnología, Jr. Fullstack Developer.<br><br>🤝 Trabajo en equipo: Me encanta trabajar en equipo, y cada dia aprender algo nuevo :)<br><br>
+👨‍💻Soy una apasionada de la tecnología, Jr. Fullstack Developer.<br><br>🤝 Trabajo en equipo: Me encanta trabajar en equipo, y cada dia aprender algo nuevo, estoy entusiasmada por aplicar mis conocimientos en un entorno profesional, contribuir al éxito del equipo y continuar desarrollando mis habilidades.
 
 
 ## 🌐 Socials:
