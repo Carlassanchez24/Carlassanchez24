@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻Soy una apasionada de la tecnología, actualmente realizando un bootcamp en Factoria F5 de programación Fullstack para reinventarme a mí misma.<br><br>🤝 Trabajo en equipo: Me encanta trabajar en equipo y siempre estoy dispuesta a intercambiar opiniones :)<br><br>🚀 Busco Oportunidades: Estoy en la búsqueda de mi primera aventura laboral en el mundo tech.<br><br>¡Echa un vistazo a mis repos y si te apetece colaborar o tienes una oportunidad, no dudes en contactar conmigo!<br>
+👨‍💻Soy una apasionada de la tecnología, actualmente realizando un bootcamp en Factoria F5 de programación Fullstack para reinventarme a mí misma.<br><br>🤝 Trabajo en equipo: Me encanta trabajar en equipo :)<br><br>
 
 
 ## 🌐 Socials:
